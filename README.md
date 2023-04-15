@@ -1,8 +1,9 @@
 # odin-recipes
 
-This is my first ever project using The Odin Project. 
+This is my first ever project using The Odin Project.
 
-By the end of this I will be able to: 
+By the end of this I will be able to:
+
 1. Create a HTML website
 2. Link other pages to a main page
 3. Add images to the site
