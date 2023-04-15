@@ -13,3 +13,7 @@ By the end of this I will be able to:
 7. Use git push origin main to upload the files to my Github account
 
 Project end thoughts:
+
+1. It wasn't as hard getting into the swing of commiting to Git consistently as I thought.
+2. I did mess up some commits by not doing them early enough, however, I think I managed quite well.
+3. Building a simple project as a warmup is very nice.
