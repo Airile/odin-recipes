@@ -8,6 +8,10 @@
   background-color: #90e39a;
 }
 
+ul {
+  padding: 0px;
+}
+
 a {
   color: #282b28;
   text-decoration: none;
