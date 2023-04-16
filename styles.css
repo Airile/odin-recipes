@@ -13,7 +13,7 @@ a {
   text-decoration: none;
 }
 
-ul {
+.homepage {
   text-align: center;
 }
 
@@ -26,4 +26,18 @@ h1 {
 
 body {
   background-color: #638475;
+}
+
+img {
+  height: auto;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10%;
+}
+
+h3 {
+  font-size: 24px;
+  color: #282b28;
 }
