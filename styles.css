@@ -1,0 +1,29 @@
+.item {
+  list-style: none;
+  display: inline;
+  border: 1px solid #282b28;
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin: 0px 20px;
+  background-color: #90e39a;
+}
+
+a {
+  color: #282b28;
+  text-decoration: none;
+}
+
+ul {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px 20px;
+  color: #282b28;
+  font-size: 36px;
+}
+
+body {
+  background-color: #638475;
+}

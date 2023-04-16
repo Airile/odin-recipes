@@ -17,3 +17,8 @@ Project end thoughts:
 1. It wasn't as hard getting into the swing of commiting to Git consistently as I thought.
 2. I did mess up some commits by not doing them early enough, however, I think I managed quite well.
 3. Building a simple project as a warmup is very nice.
+
+Update 16.04.2023
+
+1. Adding basic CSS to the pages
+2. Figuring out the necessary attributes is a bit clapped lol
