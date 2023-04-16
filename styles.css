@@ -42,5 +42,6 @@ img {
   margin: 0% 20%;
   padding: 10px;
   background-color: #1f271b;
-  color: rgba(99, 132, 117, 0.9);
+  color: rgba(178, 194, 187);
+  border-radius: 10px;
 }
