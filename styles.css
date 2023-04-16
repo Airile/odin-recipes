@@ -25,7 +25,7 @@ h1 {
 }
 
 body {
-  background-color: #638475;
+  background-color: rgba(99, 132, 117, 0.9);
 }
 
 img {
@@ -35,9 +35,12 @@ img {
   margin-left: auto;
   margin-right: auto;
   border-radius: 10%;
+  padding: 1%;
 }
 
-h3 {
-  font-size: 24px;
-  color: #282b28;
+.recipe {
+  margin: 0% 20%;
+  padding: 10px;
+  background-color: #1f271b;
+  color: rgba(99, 132, 117, 0.9);
 }
